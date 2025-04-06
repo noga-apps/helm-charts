@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  service:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2025-04-06T11:16:18.073628+02:00"
+    description: A Helm chart for Kubernetes
+    digest: 81508ba485546c1bbfbfe6c8434de3521e059cbbc831f965c0636198eb734b37
+    name: service
+    type: application
+    urls:
+    - https://noga-apps.github.io/helm-chart/service-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-04-06T11:16:18.072846+02:00"
